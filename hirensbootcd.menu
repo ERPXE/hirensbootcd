@@ -1,0 +1,9 @@
+LABEL HIRENSBOOTCD
+MENU LABEL ^Hiren's BootCD 15.1 DOS
+KERNEL pxelinux.cfg/roms/memdisk
+INITRD er/plugins/hirensbootcd/hirensbootcd.ima
+APPEND RAW
+TEXT HELP
+                 A collection of Free and Non Free software.
+                 Dedicated for Windows PCs.
+ENDTEXT

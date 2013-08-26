@@ -1,0 +1,4 @@
+.:
+filelist.txt
+hirensbootcd.ima
+hirensbootcd.menu
