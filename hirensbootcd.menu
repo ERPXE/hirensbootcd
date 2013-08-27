@@ -1,6 +1,6 @@
 LABEL HIRENSBOOTCD
 MENU LABEL ^Hiren's BootCD 15.1 DOS
-KERNEL pxelinux.cfg/roms/memdisk
+KERNEL boot/isolinux/memdisk
 INITRD er/plugins/hirensbootcd/hirensbootcd.ima
 APPEND RAW
 TEXT HELP
